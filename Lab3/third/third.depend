@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510058473 source:c:\users\pc\desktop\embeded\lab3\third\main.c
+	<avr/io.h>
+	<util/delay.h>
+

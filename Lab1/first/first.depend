@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1501059236 source:c:\users\pc\desktop\Çalýþmalar\avr\codeblocks\first\fuse.c
+	<avr/io.h>
+
+1508747037 source:c:\users\pc\desktop\Çalýþmalar\avr\codeblocks\first\main.c
+	<avr/io.h>
+	<util/delay.h>
+
+1501059236 source:c:\users\pc\desktop\okul\term7\embeded\lab1\first\fuse.c
+	<avr/io.h>
+
+1508747037 source:c:\users\pc\desktop\okul\term7\embeded\lab1\first\main.c
+	<avr/io.h>
+	<util/delay.h>
+

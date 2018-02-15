@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1510314683 source:c:\users\pc\desktop\embeded\lab7\exp7\lcdmodule.c
+	<avr/io.h>
+	<util/delay.h>
+	"LCDmodule.h"
+
+1510314685 c:\users\pc\desktop\embeded\lab7\exp7\lcdmodule.h
+
+1510326106 source:c:\users\pc\desktop\embeded\lab7\exp7\printbyte.c
+
+1513880816 source:c:\users\pc\desktop\embeded\lab7\exp7\main.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"LCDmodule.h"
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1501077675 source:c:\users\pc\desktop\Çalýþmalar\avr\codeblocks\second\fuse.c
+	<avr/io.h>
+
+1501077675 source:c:\users\pc\desktop\okul\term7\embeded\lab2\second\fuse.c
+	<avr/io.h>
+
+1501077675 source:c:\users\pc\desktop\embeded\lab2\second\fuse.c
+	<avr/io.h>
+
+1509111318 source:c:\users\pc\desktop\embeded\lab2\second\main.c
+	<avr/io.h>
+

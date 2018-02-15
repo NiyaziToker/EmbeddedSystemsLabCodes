@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1510314683 source:c:\users\pc\desktop\embeded\lab8\lab8\lcdmodule.c
+	<avr/io.h>
+	<util/delay.h>
+	"LCDmodule.h"
+
+1510314685 c:\users\pc\desktop\embeded\lab8\lab8\lcdmodule.h
+
+1510326106 source:c:\users\pc\desktop\embeded\lab8\lab8\printbyte.c
+
+1514882117 source:c:\users\pc\desktop\embeded\lab8\lab8\main.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+	"LCDmodule.h"
+
